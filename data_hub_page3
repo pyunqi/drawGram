@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:22:04.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="QWFOcBL5VQBmj-17v2vJ" type="github"><diagram id="7sksEgM7n1QAWypHrlBi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:29:30.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hortEaU9VbzViB-gxN5y" version="20.1.1" type="github">
+  <diagram id="7sksEgM7n1QAWypHrlBi" name="Page-1">
+    <mxGraphModel dx="946" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mW2lbW-g4-xYQpqZUTP7-3" value="数据中台" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folders_2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="310" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="mW2lbW-g4-xYQpqZUTP7-4" value="权限管理&lt;br&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="384" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mW2lbW-g4-xYQpqZUTP7-5" value="数据清洗&lt;br&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cube;" vertex="1" parent="1">
+          <mxGeometry x="384" y="330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mW2lbW-g4-xYQpqZUTP7-8" value="数据管理" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="1">
+          <mxGeometry x="453.75" y="330" width="22.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mW2lbW-g4-xYQpqZUTP7-9" value="数据存储&lt;br&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="mW2lbW-g4-xYQpqZUTP7-11" value="任务调度" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.controls;" vertex="1" parent="1">
+          <mxGeometry x="520" y="253" width="27" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="mW2lbW-g4-xYQpqZUTP7-15" value="系统配置" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
