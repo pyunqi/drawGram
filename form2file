@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T10:23:54.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wLfDbHCYb3BUCLs1AkqV" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T10:27:18.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="f2FO0qbQHNSe3ckdK4X5" version="20.1.1" type="github">
   <diagram id="uRjvKS3e4U2DbnoqUDyf" name="Page-1">
     <mxGraphModel dx="1933" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QfZFQfMzwwaGML8yRjc_-89" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="QfZFQfMzwwaGML8yRjc_-35">
-          <mxGeometry width="380" height="100" relative="1" as="geometry">
+          <mxGeometry width="880" height="140" relative="1" as="geometry">
             <mxPoint x="40" y="250" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -75,6 +75,21 @@
             <mxPoint y="70" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QfZFQfMzwwaGML8yRjc_-116" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D2D3D4;html=1;whiteSpace=wrap;fillColor=#F8F9FA;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="QfZFQfMzwwaGML8yRjc_-89">
+          <mxGeometry x="520" y="-120" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="QfZFQfMzwwaGML8yRjc_-117" value="上传文件（&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 20px; text-align: center;&quot;&gt;自动解析入库&lt;/span&gt;）" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=#D2D3D4;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="QfZFQfMzwwaGML8yRjc_-116">
+          <mxGeometry width="360" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfZFQfMzwwaGML8yRjc_-108" value="" style="shape=rect;fillColor=#F6F6F6;strokeColor=none;" vertex="1" parent="QfZFQfMzwwaGML8yRjc_-116">
+          <mxGeometry x="70" y="83.75" width="220" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QfZFQfMzwwaGML8yRjc_-110" value="拖拽文件到这里" style="text;fontColor=#bbbbbb;fontSize=25;verticalAlign=middle;align=center;fontStyle=1" vertex="1" parent="QfZFQfMzwwaGML8yRjc_-108">
+          <mxGeometry y="18.5" width="220" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="QfZFQfMzwwaGML8yRjc_-119" value="提交" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="QfZFQfMzwwaGML8yRjc_-116">
+          <mxGeometry x="130" y="200" width="86" height="33" as="geometry" />
+        </mxCell>
         <mxCell id="QfZFQfMzwwaGML8yRjc_-98" value="Example textarea" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="QfZFQfMzwwaGML8yRjc_-35">
           <mxGeometry width="260" height="40" relative="1" as="geometry">
             <mxPoint x="40" y="360" as="offset" />
@@ -85,23 +100,10 @@
             <mxPoint x="40" y="400" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfZFQfMzwwaGML8yRjc_-102" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfZFQfMzwwaGML8yRjc_-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-90" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QfZFQfMzwwaGML8yRjc_-108" value="" style="shape=rect;fillColor=#F6F6F6;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="270" width="220" height="92.5" as="geometry" />
-        </mxCell>
-        <mxCell id="QfZFQfMzwwaGML8yRjc_-109" value="文件自动解析入库" style="text;fontColor=#000000;fontSize=20;verticalAlign=top;align=center;spacingTop=-2;" vertex="1" parent="QfZFQfMzwwaGML8yRjc_-108">
-          <mxGeometry width="220" height="74" as="geometry" />
-        </mxCell>
-        <mxCell id="QfZFQfMzwwaGML8yRjc_-110" value="拖拽文件到这里" style="text;fontColor=#bbbbbb;fontSize=25;verticalAlign=middle;align=center;fontStyle=1" vertex="1" parent="QfZFQfMzwwaGML8yRjc_-108">
-          <mxGeometry y="18.5" width="220" height="74" as="geometry" />
-        </mxCell>
-        <mxCell id="QfZFQfMzwwaGML8yRjc_-111" value="" style="shape=mxgraph.ios7.icons.compose;strokeColor=#0080f0;fillColor=none;" vertex="1" parent="QfZFQfMzwwaGML8yRjc_-108">
-          <mxGeometry x="1" y="0.5" width="15" height="15" relative="1" as="geometry">
-            <mxPoint x="-20" y="-7.5" as="offset" />
+        <mxCell id="QfZFQfMzwwaGML8yRjc_-118" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;shape=flexArrow;exitX=0.571;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QfZFQfMzwwaGML8yRjc_-35" source="QfZFQfMzwwaGML8yRjc_-94" target="QfZFQfMzwwaGML8yRjc_-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="300" as="sourcePoint" />
+            <mxPoint x="520" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
