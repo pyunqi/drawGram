@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:01:38.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JCJnLIjGx5rB06Wu_XT3" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:19:13.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="v_2ki-xOCm9ZDyRDAkZH" version="20.1.1" type="github">
   <diagram id="zyM_5AJdQ0o9vrPpIEbl" name="Page-1">
     <mxGraphModel dx="946" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QR0lw6LLtP8c5NyAksus-22" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.296;entryY=0.399;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="QR0lw6LLtP8c5NyAksus-1" target="QR0lw6LLtP8c5NyAksus-13">
+        <mxCell id="QR0lw6LLtP8c5NyAksus-39" style="edgeStyle=isometricEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.291;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;elbow=vertical;" edge="1" parent="1" source="QR0lw6LLtP8c5NyAksus-2" target="QR0lw6LLtP8c5NyAksus-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QR0lw6LLtP8c5NyAksus-2" value="数据库" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QR0lw6LLtP8c5NyAksus-40" style="edgeStyle=isometricEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.447;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;elbow=vertical;" edge="1" parent="1" source="QR0lw6LLtP8c5NyAksus-1" target="QR0lw6LLtP8c5NyAksus-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QR0lw6LLtP8c5NyAksus-1" value="数据接口" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/analytics/data_integration.svg;" vertex="1" parent="1">
           <mxGeometry x="162.5" y="110" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QR0lw6LLtP8c5NyAksus-23" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="QR0lw6LLtP8c5NyAksus-2" target="QR0lw6LLtP8c5NyAksus-16">
+        <mxCell id="QR0lw6LLtP8c5NyAksus-42" style="edgeStyle=isometricEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.645;entryY=0.735;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;elbow=vertical;" edge="1" parent="1" source="QR0lw6LLtP8c5NyAksus-5" target="QR0lw6LLtP8c5NyAksus-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="350" />
+              <mxPoint x="330" y="450" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QR0lw6LLtP8c5NyAksus-2" value="数据库" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="QR0lw6LLtP8c5NyAksus-27" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.376;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="QR0lw6LLtP8c5NyAksus-5" target="QR0lw6LLtP8c5NyAksus-16">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QR0lw6LLtP8c5NyAksus-5" value="协议类" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/management/data_services.svg;" vertex="1" parent="1">
           <mxGeometry x="165" y="489.5" width="95" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="QR0lw6LLtP8c5NyAksus-24" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.811;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="QR0lw6LLtP8c5NyAksus-6" target="QR0lw6LLtP8c5NyAksus-7">
+        <mxCell id="QR0lw6LLtP8c5NyAksus-41" style="edgeStyle=isometricEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.847;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;elbow=vertical;" edge="1" parent="1" source="QR0lw6LLtP8c5NyAksus-6" target="QR0lw6LLtP8c5NyAksus-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QR0lw6LLtP8c5NyAksus-6" value="文件类&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/existing_enterprise_systems.svg;" vertex="1" parent="1">
@@ -35,17 +35,23 @@
         <mxCell id="QR0lw6LLtP8c5NyAksus-8" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=user" vertex="1" parent="1">
           <mxGeometry x="30" y="416" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="QR0lw6LLtP8c5NyAksus-16" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;glass=0;gradientColor=none;sketch=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="170" height="190" as="geometry" />
+        <mxCell id="QR0lw6LLtP8c5NyAksus-13" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;接口和数据协议的方式&lt;/span&gt;" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="141" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="QR0lw6LLtP8c5NyAksus-7" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;数据抓取模块" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node" vertex="1" parent="1">
-          <mxGeometry x="349" y="360" width="71" height="74" as="geometry" />
+        <mxCell id="QR0lw6LLtP8c5NyAksus-31" value="数据总线" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QR0lw6LLtP8c5NyAksus-13" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;数据抓取模块" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node" vertex="1" parent="1">
-          <mxGeometry x="349" y="270" width="71" height="74" as="geometry" />
+        <mxCell id="QR0lw6LLtP8c5NyAksus-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据孤岛&lt;/font&gt;" style="shape=mxgraph.ibm.box;prType=cloud;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="70" width="170" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="QR0lw6LLtP8c5NyAksus-14" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;数据抓取&lt;br&gt;模块" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node" vertex="1" parent="1">
-          <mxGeometry x="420" y="316" width="70" height="74" as="geometry" />
+        <mxCell id="QR0lw6LLtP8c5NyAksus-30" value="数据中台" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/miscellaneous/ibm_containers.svg;glass=0;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="583" y="287" width="177" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="QR0lw6LLtP8c5NyAksus-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;进行数据清洗和存储&lt;/font&gt;" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#00882B;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;shadow=0;glass=0;sketch=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="580" y="70" width="190" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="QR0lw6LLtP8c5NyAksus-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;定制话的数据抓取任务，如定时任务&lt;/font&gt;" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#00882B;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;shadow=0;glass=0;sketch=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="170" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
